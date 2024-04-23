@@ -64,6 +64,7 @@ class App extends Component<{}, IState> {
             <div className="App">
                 <header className="App-header">
                     Bank & Merge Co Task 2
+
                 </header>
                 <div className="App-content">
                     <button className="btn btn-primary Stream-button"
